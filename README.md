@@ -21,5 +21,3 @@ Detect-X's state-of-the-art machine-learning-based threat detection software arm
 ![image](https://user-images.githubusercontent.com/30216453/66503763-77cf5e80-eae5-11e9-81a8-2582e0704e57.png)
 ![image](https://user-images.githubusercontent.com/30216453/66503803-86b61100-eae5-11e9-8aea-fd9cc6014d6b.png)
 
-### The amazing team - 
-![image](https://user-images.githubusercontent.com/30216453/66503833-95042d00-eae5-11e9-986f-001d52f71e7d.png)
