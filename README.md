@@ -1,6 +1,5 @@
 # Detect-X Automated Threat Detection by AI
 
-## Mid term submission for Machine Learning Course by Siraj Raval
 
 ### Business Use case - 
 Effective and efficient security checks are essential in today’s world of trade and the threats that exist to our societies. The increasing amounts of goods that pass every security checkpoints require innovative inspection procedures. Automatic detection using AI can play an important role in improving the security checking procedure at airports, shopping malls or any populated areas and automating the process.
